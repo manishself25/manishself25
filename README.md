@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on **Open Source Projects** and **Full-Stack Development**
 - 🌱 I’m currently learning **React, Node.js, and Machine Learning**
 - 💬 Ask me about **JavaScript, Python, React, Node.js, and Machine Learning**
-- 📫 How to reach me: **manish.sharma@example.com**
+- 📫 How to reach me: **manishself25@gmail.com**
 
 <h1></h1>
 
