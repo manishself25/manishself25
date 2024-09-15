@@ -1,45 +1,82 @@
-# Hi there! 👋 I'm Manish Sharma
+![]()
 
-<!-- Badges -->
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/your-username?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+<h1 align="center">Hi, I'm Manish Sharma</h1>
 
-## 👨‍💻 About Me
+<h3 align="center">Visit my GitHub Profile</h3>
+<h4 align="center">https://github.com/manishself25</h4>
 
-I'm a passionate [Your Profession/Role], with a keen interest in [mention your expertise or fields like Machine Learning, Web Development, etc.]. I love to build, learn, and share knowledge in the field of [specific technology/domain].
+<br>
 
-- 🔭 I’m currently working on **[Your Project/Company]**
-- 🌱 I’m currently learning **[Technologies/Skills]**
-- 👯 I’m looking to collaborate on **[Open Source Projects/Any Idea]**
-- 💬 Ask me about **[Your favorite tech stack, languages, or expertise]**
-- 📫 How to reach me: **[Your Email/LinkedIn/Other Contact]**
+<p align="right"> <h3>Profile Views :-</h3> 
+<img src="https://komarev.com/ghpvc/?username=manishself25&label=Profile%20views&color=0e75b6&style=flat"
+    alt="manishself25" /> 
+</p>
 
-## 🛠️ Technologies & Tools
+<p><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"> </p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 🔭 I’m currently working on **Open Source Projects** and **Full-Stack Development**
+- 🌱 I’m currently learning **React, Node.js, and Machine Learning**
+- 💬 Ask me about **JavaScript, Python, React, Node.js, and Machine Learning**
+- 📫 How to reach me: **manish.sharma@example.com**
 
-## 📊 GitHub Stats
+<h1></h1>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+### Let's have a connection!
 
-## 📫 Let's Connect!
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-sharma-4802bb289/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manishself25)
+<div id="badges" align="center">
+ <a href="https://www.linkedin.com/in/manish-sharma-4802bb289/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" height=40px width=40px alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/your-profile">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" height=40px width=40px alt="Twitter Badge"/>
+  </a>
+</div>
 
-<!-- Optionally, you can add an animated banner image -->
-<!-- ![Banner](url-to-your-image) -->
+<h1></h1>
 
+### My Programming's Toolkit:
 
-<!---
-manishself25/manishself25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+<div align="center"> 
+<img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/4726/4726005.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/128/9307/9307630.png" height="30" width="30">
+<img src="https://cdn.iconscout.com/icon/free/png-256/heroku-3521485-2944929.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968472.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" height="30" width="30">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968435.png" height="30" width="30">
+</div>
+
+<h1></h1>
+
+### GitHub Portfolio:
+
+<br>
+
+<table cellpadding="0">
+<tr style="padding: 0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishself25&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="manishself25" />
+</tr>
+</table>
+
+<table cellpadding="0">
+<tr style="padding: 0">
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=manishself25&show_icons=true&locale=en&theme=github_dark" alt="manishself25" />
+</tr>
+</table>
+
+<table cellpadding="0">
+<tr style="padding: 0">
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishself25&theme=dark" alt="manishself25" />
+</tr>
+</table>
+
+<h1></h1>
