@@ -14,9 +14,8 @@
 
 <p><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"> </p>
 
-- 🔭 I’m currently working on **Open Source Projects** and **Full-Stack Development**
-- 🌱 I’m currently learning **React, Node.js, and Machine Learning**
-- 💬 Ask me about **JavaScript, Python, React, Node.js, and Machine Learning**
+- 🌱 I’m currently learning **SQL and Machine Learning**
+- 💬 Ask me about **Python, and SQL**
 - 📫 How to reach me: **manishself25@gmail.com**
 
 <h1></h1>
