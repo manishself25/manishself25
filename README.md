@@ -18,10 +18,11 @@
     alt="manishself25" /> 
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/manishself25/manishself25/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/manishself25/manishself25/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/manishself25/manishself25/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishself25/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishself25/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manishself25/snk/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
