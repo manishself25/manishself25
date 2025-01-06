@@ -1,3 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishself25/manishself25/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishself25/manishself25/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manishself25/manishself25/output/github-contribution-grid-snake.svg">
+</picture>
+  
+[![wakatime](https://wakatime.com/badge/user/b5b67ae1-6061-466d-982e-e7b9ec9d9369.svg)](https://wakatime.com/@b5b67ae1-6061-466d-982e-e7b9ec9d9369)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=manishself25.manishself25)
+
+
+
 ![]()
 
 <h1 align="center">Hi, I'm Manish Sharma</h1>
