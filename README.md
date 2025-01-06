@@ -1,9 +1,3 @@
-
-  
-
-
-
-
 ![]()
 
 <h1 align="center">Hi, I'm Manish Sharma</h1>
@@ -11,20 +5,18 @@
 <h3 align="center">Visit my GitHub Profile</h3>
 <h4 align="center">https://github.com/manishself25</h4>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> 
-<img src="https://komarev.com/ghpvc/?username=manishself25&label=Profile%20views&color=0e75b6&style=flat"
-    alt="manishself25" /> 
-</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishself25/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishself25/snk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manishself25/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
 
-
+<p align="right"> <h3>Profile Views :-</h3> 
+<img src="https://komarev.com/ghpvc/?username=manishself25&label=Profile%20views&color=0e75b6&style=flat"
+    alt="manishself25" /> 
+</p>
 
 <p><img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"> </p>
 
